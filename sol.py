@@ -27,7 +27,6 @@ d = {
     8: 7,
     9: 6
 }
-count = 0
 for line in data:
     a, b = line.split('|')
     x = a.split(' ')
